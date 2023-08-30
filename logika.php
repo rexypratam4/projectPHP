@@ -10,7 +10,7 @@
     }else{
         echo 'Salah';
     }
-    echo '<br';
+    echo '<br>';
 
 
     if(!$angka5){

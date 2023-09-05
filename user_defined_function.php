@@ -19,7 +19,7 @@ function hello (){
 <!-- user defined menggunakan parameter -->
 <?php
 function hello ($name = "User"){
-    return "My bro, how are you?";  
+    return "My $name, how are you?";  
 }
 ?>
 <!DOCTYPE html>
